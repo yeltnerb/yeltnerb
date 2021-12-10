@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yeltnerb
+- 👋 Hi, I’m @yeltnerb.  (Actually Brentley)
 - 👀 I’m interested in K8S raspi and super stem
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on K8S and other fun projects.
 - 📫 How to reach me ...
 
 <!---
